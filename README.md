@@ -29,3 +29,17 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Resources
+
+LinkedIn learning
+
+https://www.linkedin.com/learning/html-structured-data-facebook-open-graph/open-graph-namespaces
+https://www.linkedin.com/learning/workflow-tools-for-web-development
+https://www.linkedin.com/learning/learning-angular-2-directives/scanning-for-new-sensors
+https://www.linkedin.com/learning/angular-2-essential-training-2/using-the-exercise-files
+https://www.linkedin.com/learning/mean-stack-and-mongodb-development-techniques/create-a-message-list-query-with-mongo
+
+## Adittional resources
+http://webcomponents.org/
+https://getmdl.io/
