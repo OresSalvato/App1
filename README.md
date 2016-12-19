@@ -43,3 +43,6 @@ https://www.linkedin.com/learning/mean-stack-and-mongodb-development-techniques/
 ## Adittional resources
 http://webcomponents.org/
 https://getmdl.io/
+
+## Bootstrap examples
+https://valor-software.com/ng2-bootstrap/#/typeahead

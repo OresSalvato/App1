@@ -8,17 +8,19 @@ import { AppComponent } from './app.component';
 import { TranslatePipe } from './pipes/translate.pipe';
 
 import { PostComponent } from './post/post.component';
-import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+import { CarouselComponent } from './carousel/carousel.component';
+import { SlideComponent } from './carousel/slide.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     PersonComponent,
     PostComponent,
-    TranslatePipe
+    TranslatePipe,
+    CarouselComponent,
+    SlideComponent
   ],
   imports: [
-    NgbModule.forRoot(),
     BrowserModule,
     FormsModule,
     HttpModule
