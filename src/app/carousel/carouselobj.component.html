@@ -1,0 +1,10 @@
+<carousel [interval]="NextPhotoInterval" [noWrap]="noLoopSlides">
+  <slide *ngFor="let slide of slides; let index=index" [active]="slide.active">
+    <img [src]="slide.image" style="margin:auto;">
+
+    <div class="carousel-caption">
+      <h3 style="background-color: transparent;color: white;">Slide {{index + 1}}</h3>
+      <p style="background-color: transparent;color: white;">{{slide.text}}</p>
+    </div>
+  </slide>
+</carousel>

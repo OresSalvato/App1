@@ -8,6 +8,7 @@ import { AppComponent } from './app.component';
 import { TranslatePipe } from './pipes/translate.pipe';
 
 import { PostComponent } from './post/post.component';
+import { CarouselobjComponent } from './carousel/carouselobj.component';
 import { CarouselComponent } from './carousel/carousel.component';
 import { SlideComponent } from './carousel/slide.component';
 
@@ -17,6 +18,7 @@ import { SlideComponent } from './carousel/slide.component';
     PersonComponent,
     PostComponent,
     TranslatePipe,
+    CarouselobjComponent,
     CarouselComponent,
     SlideComponent
   ],
@@ -24,6 +26,7 @@ import { SlideComponent } from './carousel/slide.component';
     BrowserModule,
     FormsModule,
     HttpModule
+    
   ],
   providers: [],
   bootstrap: [AppComponent]

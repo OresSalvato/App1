@@ -44,5 +44,16 @@
     "tslint": "^4.0.2",
     "typescript": "~2.0.3",
     "webdriver-manager": "10.2.5"
-  }
+  },
+  "description": "This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.22-1.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssv123321vss/App1.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ssv123321vss/App1/issues"
+  },
+  "homepage": "https://github.com/ssv123321vss/App1#readme"
 }
